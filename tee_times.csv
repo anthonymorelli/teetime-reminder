@@ -1,0 +1,11 @@
+booking_id,customer_name,phone,date,tee_time,holes,party_size,status
+1,Morelli ,+19513674935,2026-03-07,08:00,18,4,confirmed
+2,Martinez Family,+19515550102,2026-03-07,08:12,9,2,confirmed
+3,Johnson,+19515550103,2026-03-07,09:00,18,3,confirmed
+4,Williams,+19515550104,2026-03-07,09:12,18,2,confirmed
+5,Thompson Group,+19515550105,2026-03-07,10:00,9,4,confirmed
+6,Garcia,+19515550106,2026-03-07,10:24,18,2,confirmed
+7,Patel Family,+19515550107,2026-03-08,08:00,18,4,confirmed
+8,Chen,+19515550108,2026-03-08,08:12,9,2,confirmed
+9,Rodriguez,+19515550109,2026-03-08,09:00,18,3,confirmed
+10,Kim Group,+19515550110,2026-03-08,10:00,18,4,confirmed
