@@ -26,8 +26,7 @@ teetime-reminder/
 ├── main.py          # Outbound reminder pipeline
 ├── webhook.py       # Inbound reply logging via Flask
 ├── tee_times.csv    # Sample booking data
-├── .gitignore       # Excludes .env credentials
-
+└── .gitignore       # Excludes .env credentials
 ## How to Run
 1. Clone the repo
 2. Install dependencies: `pip install pandas twilio flask python-dotenv`
